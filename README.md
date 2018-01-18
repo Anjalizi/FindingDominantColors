@@ -11,7 +11,7 @@ python color_kmeans.py --image media/sun.jpg --clusters 3
 ```
 sun.jpg - The file under test. To test on your own file, put an image in the media folder and replace sun.jpg by the address of your image.
 
-3 - The number of dominant colors to be replaced. To get a different number of dominant colors, replace 3 by the number you want.
+3 - The number of dominant colors to be shown. To get a different number of dominant colors, replace 3 by the number you want.
 
 ## Acknowledgments
 
